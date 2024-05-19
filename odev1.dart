@@ -30,5 +30,5 @@ void main() {
   String ad = "Kudret", soyAd = "Turan";
   int yas = 21;
   bool resitMi = yas >= 22;
-  print("Ben $ad $soyAd,yaşım $yas reşitlik durumum:$resitMi ");
+  print("Ben $ad $soyAd,yaşım $yas reşitlik durumum:$resitMi");
 }
